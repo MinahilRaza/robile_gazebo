@@ -39,7 +39,7 @@ sudo apt install ros-$ROS_DISTRO-controller-manager ros-$ROS_DISTRO-effort-contr
 cd ~/catkin_ws/src
 git clone https://github.com/kelo-robotics/kelo_tulip.git
 git clone https://github.com/kelo-robotics/robile_description.git
-git clone https://github.com/kelo-robotics/robile_gazebo.git
+git clone https://github.com/MinahilRaza/robile_gazebo.git
 
 catkin build kelo_tulip # you will need to enter your password for the kelo_tulip build to complete
 
